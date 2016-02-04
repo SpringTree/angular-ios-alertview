@@ -4,7 +4,7 @@ angular.module('angular-ios-alertview', [])
     restrict: 'AE',
     replace: true,
     template: [
-      '<div class="ios-alertview-overlay">',
+      '<div class="ios-alertview-overlay" ng-cloak>',
         '<div class="ios-alertview">',
           '<div class="ios-alertview-inner" ng-class="{\'ios-alertview-inner-remind\': !buttons || !buttons.length}">',
             '<div class="ios-alertview-title" ng-if="title">{{ title }}</div>',
