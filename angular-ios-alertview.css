@@ -3,7 +3,7 @@
  * iOS7+ style alertview service for angular
  * License: MIT
  * Author: Treri
- * build: Thu Feb 04 2016 14:20:21 GMT+0100 (CET)
+ * build: Thu Feb 04 2016 14:51:28 GMT+0100 (CET)
  **/
 .ios-alertview-overlay{
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
@@ -83,7 +83,7 @@
 .ios-alertview-title + .ios-alertview-text{
   margin-top: 5px;
 }
-.ios-alertview-text-input{
+input.ios-alertview-text-input{
   outline: 0;
   box-sizing: border-box;
   height: 30px;

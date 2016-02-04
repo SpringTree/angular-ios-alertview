@@ -68,7 +68,7 @@
 .ios-alertview-title + .ios-alertview-text{
   margin-top: 5px;
 }
-.ios-alertview-text-input{
+input.ios-alertview-text-input{
   outline: 0;
   box-sizing: border-box;
   height: 30px;
