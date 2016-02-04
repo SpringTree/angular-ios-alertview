@@ -11,6 +11,10 @@
     "angular",
     "alertview"
   ],
+  "main": [
+      "./angular-ios-alertview.js",
+      "./angular-ios-alertview.css"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
