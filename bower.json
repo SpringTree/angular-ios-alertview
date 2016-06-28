@@ -1,6 +1,9 @@
 {
   "name": "angular-ios-alertview",
-  "main": "angular-ios-alertview.js",
+  "main": [
+    "angular-ios-alertview.js",
+    "angular-ios-alertview.css"
+  ],
   "version": "1.2.1",
   "homepage": "https://github.com/Treri/angular-ios-alertview",
   "authors": [
